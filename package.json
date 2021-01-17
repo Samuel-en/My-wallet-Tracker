@@ -1,0 +1,27 @@
+{
+  "name": "My-wallet-Tracker",
+  "version": "1.0.0",
+  "description": "[DESCRIPTION] [INSTALLATION] [USAGE] [QUESTION]",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuel-en/My-wallet-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuel-en/My-wallet-Tracker/issues"
+  },
+  "homepage": "https://github.com/Samuel-en/My-wallet-Tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.12",
+    "morgan": "^1.10.0"
+  }
+}
