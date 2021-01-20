@@ -1,8 +1,9 @@
 # My-wallet-Tracker
-[DESCRIPTION]
-[INSTALLATION]
-[USAGE]
-[QUESTION]
+* [DESCRIPTION]
+* [INSTALLATION]
+* [USAGE]
+* [QUESTION]
+* 
 
 ## DESCRIPTION
 
@@ -21,3 +22,15 @@ Fork repo
 * npm compression 
 
 ## USAGE 
+
+Run the following command to start the server
+
+* node server.js
+
+## QUESTIONS 
+
+Please send your questions and suggestions 
+
+* E-mail: samiandreas70@gmail.com 
+* GitHub: https://samuel-en.github.io/My-Portfolio-/index.html
+
